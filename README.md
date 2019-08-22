@@ -1,11 +1,12 @@
-# 2-exercicio-dev-com-git
-Exercício: Mars Rover
+
+# Exercício: Mars Rover
 
 O objetivo deste exercício é resolver um problema passando por todos os momentos: entendimento do problema, identificação e definição das classes, implementação dos algoritmos para resolver o problema com testes unitários, sobr GCS. O Mars Rover é um problema bastante utilizado por permitir discutir vários aspectos de implemenetação de soluções.
 
 Atividade de hoje: implementar o Mars Rover. O enunciado apresentado é o original, frequentemente usado em processos de seleção, em inglês.
 
 Importante: Trabalhe em equipe de 2 ou 3 pessoas. Organize as interfaces/classes do sistemas, e cada membro da equipe deve trabalhar na sua branch, mesclando o resultado na master. Mantenha todas as branchs atualizadas no repositório compartilhado.
+------------------------------------------
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
 
